@@ -1,0 +1,57 @@
+{
+    "name": "dev-theme",
+    "displayName": "Dev Theme",
+    "description": "This Is A Transparent Theme",
+    "version": "0.0.1",
+    "publisher": "Karthik",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+
+    "repository": {
+        "type": "github",
+        "url": "https://github.com/KarthikSrivantK/Dev_Theme.git"
+    },
+
+    "keywords": [
+        "DEV",
+
+        "Dev",
+
+        "DEv",
+
+        "dev",
+
+        "theme",
+
+        "Theme",
+
+        "Dark",
+
+        "dark",
+
+        "Dark Theme",
+
+        "dark theme",
+
+        "Dark theme",
+
+        "dark Theme",
+
+        "simple",
+
+        "all"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dev Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dev Theme-color-theme.json"
+            }
+        ]
+    }
+}
